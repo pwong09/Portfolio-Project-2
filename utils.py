@@ -14,3 +14,5 @@ def load_books(filename):
           book['rating']
           bookshelf.append(book)
   return bookshelf
+
+print(load_books('books-small.csv'))
