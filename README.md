@@ -6,3 +6,5 @@ Objectives:
 3. Use Git version control
 4. Use command line & file nav
 5. Write a technical blog post
+
+[Blog](https://dev.to/pwong09/pearls-book-recommendation-44gb)
