@@ -1,4 +1,4 @@
-# Portfolio-Project-2
+# Terminal Recommendation Software
  Codecademy CS Path - Recommendation Software
 Objectives:
 1. Store data in a data structure
